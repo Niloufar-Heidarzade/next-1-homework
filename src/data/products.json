@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "name": "Eco-Friendly Notebook",
+    "description": "100% recycled paper notebook for everyday use.",
+    "price": 12.99,
+    "category": "Stationery",
+    "stock": 50,
+    "rating": 4.5,
+    "reviews": 128
+  },
+  {
+    "id": 2,
+    "name": "Reusable Water Bottle",
+    "description": "Stainless steel, BPA-free water bottle.",
+    "price": 19.99,
+    "category": "Home Essentials",
+    "stock": 30,
+    "rating": 4.8,
+    "reviews": 94
+  },
+  {
+    "id": 3,
+    "name": "Organic Cotton T-Shirt",
+    "description": "Soft, breathable, and eco-friendly t-shirt.",
+    "price": 25.99,
+    "category": "Clothing",
+    "stock": 100,
+    "rating": 4.3,
+    "reviews": 56
+  },
+  {
+    "id": 4,
+    "name": "Bamboo Toothbrush",
+    "description": "Eco-friendly toothbrush made from sustainable bamboo.",
+    "price": 5.99,
+    "category": "Personal Care",
+    "stock": 200,
+    "rating": 4.7,
+    "reviews": 201
+  },
+  {
+    "id": 5,
+    "name": "Compostable Trash Bags",
+    "description": "Biodegradable trash bags for reducing waste.",
+    "price": 14.99,
+    "category": "Home Essentials",
+    "stock": 60,
+    "rating": 4.6,
+    "reviews": 83
+  },
+  {
+    "id": 6,
+    "name": "Solar-Powered Power Bank",
+    "description": "Portable power bank charged by solar energy.",
+    "price": 39.99,
+    "category": "Electronics",
+    "stock": 25,
+    "rating": 4.2,
+    "reviews": 68
+  },
+  {
+    "id": 7,
+    "name": "Vegan Leather Wallet",
+    "description": "Stylish wallet made from cruelty-free materials.",
+    "price": 29.99,
+    "category": "Accessories",
+    "stock": 40,
+    "rating": 4.5,
+    "reviews": 44
+  },
+  {
+    "id": 8,
+    "name": "Natural Scented Candle",
+    "description": "Soy wax candle with a refreshing lavender scent.",
+    "price": 18.99,
+    "category": "Home Decor",
+    "stock": 80,
+    "rating": 4.9,
+    "reviews": 110
+  },
+  {
+    "id": 9,
+    "name": "Handmade Ceramic Mug",
+    "description": "Unique, handmade mug perfect for coffee lovers.",
+    "price": 22.99,
+    "category": "Kitchenware",
+    "stock": 35,
+    "rating": 4.8,
+    "reviews": 77
+  },
+  {
+    "id": 10,
+    "name": "Eco-Friendly Yoga Mat",
+    "description": "Non-toxic, biodegradable yoga mat for fitness enthusiasts.",
+    "price": 45.99,
+    "category": "Sports",
+    "stock": 20,
+    "rating": 4.7,
+    "reviews": 132
+  }
+]
